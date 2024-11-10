@@ -4,6 +4,7 @@
 Passionate and experienced math tutor with a focus on helping students grasp math concepts quickly and efficiently. I specialize in [Grades/Subjects you teach], offering clear explanations and practical tips to make math easier for everyone.
 
 ---
+![image](https://github.com/user-attachments/assets/0307b6f3-a009-4c38-af73-6f456713d848)
 
 ### **Tutoring Approach**
 - **Personalized Learning**: Tailoring lessons to each student’s learning style and pace.
